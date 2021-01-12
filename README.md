@@ -1,4 +1,4 @@
-# Problem Set Name Here
+# Problem Set Name here
 ## Problem Set Topic here
 
 ### Directions
@@ -16,7 +16,8 @@ Clone this lab.
 
 1. From your project's root folder, run `npm install` to load project dependencies.
 
-2. Your coding files are: 
+2. Your coding files are in the `problems` folder: 
+    * `README.md` Your instructions and decription of the problems. 
     * `exercises.js` Where you will code your solutions.
     * `exercises.test.js` Your test cases.
     * `index.html` You can optionally open this file in the browser to run your code.
