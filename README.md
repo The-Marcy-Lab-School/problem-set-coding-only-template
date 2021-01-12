@@ -2,20 +2,20 @@
 ## Problem Set Topic here
 
 ### Directions
-Clone this lab. 
+1. Clone this lab. 
 
-1. From your project's root folder, run `npm install` to load project dependencies.
+2. From your project's root folder, run `npm install` to load project dependencies.
 
-2. Your coding files are: 
+3. Your coding files are: 
     * `exercises.js` Where you will code your solutions.
     * `exercises.test.js` Your test cases.
     * `index.html` You can optionally open this file in the browser to run your code.
 
-3. Test your code often by running `npm test`. 
+4. Test your code often by running `npm test`. 
 
-4. Check for style by running `eslint exercises.js` in the terminal. If you get an error `eslint: command not found`, run `npm install -g eslint` first.
+5. Check for style by running `eslint exercises.js` in the terminal. If you get an error `eslint: command not found`, run `npm install -g eslint` first.
 
-5. Push your final commits and submit your URL through Canvas.
+6. Push your final commits and submit your URL through Canvas.
 
 ### Coding Problems
 
